@@ -1,5 +1,4 @@
 # Cryptography implement using C programming
-Learn cryptography - Implement using C programming language
 
 Cryptography is the practice and study of techniques for securing communication and data in the presence of adversaries. 
 It is widely used for protecting sensitive data from unauthorized access, ensuring data integrity, and verifying the authenticity of communications. 
